@@ -13,6 +13,6 @@ Step 5 - Create a new folder and GitBash
 Right-click in a local folder where you want to clone the project and click on GitBash Here.
 Then in your terminal run the following: git clone https://github.com/BurhucxStefan/Proiect_Final
 
-Step 6 - Once you cloned the repository, open IntellyJ and Click File -> Open- navigate to the folder where you cloned the project, press ok and click Trust Project.
+Step 6 - Once you cloned the repository, open IntelliJ and Click File -> Open- navigate to the folder where you cloned the project, press ok and click Trust Project.
 
 Step 7 - Run the project!
